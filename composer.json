@@ -1,0 +1,26 @@
+{
+    "name": "matok/util-combination",
+    "description": "Combination / Bruteforcer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matej Kuna",
+            "email": "mat.kuna@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Matok\\Util\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Matok\\Util\\Tests\\": "tests/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "dev-master"
+    }
+}
